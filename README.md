@@ -50,7 +50,7 @@ Para obter uma chave de API, acesse o site da [Groq](https://groq.com/) e crie u
 ### 5. Executar o assistente
 Após configurar a chave, basta rodar o script:
 ```sh
-python main.py
+python virtual_assitant.py
 ```
 Agora, o assistente de voz estará pronto para interagir com você!
 
